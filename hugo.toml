@@ -42,6 +42,10 @@ name = 'Apoie'
 url = '#apoie'
 weight = 70
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [build]
   [build.buildStats]
     enable = true
