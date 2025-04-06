@@ -1,0 +1,4 @@
+baseURL = 'https://lixozero.org.br/'
+languageCode = 'pt-br'
+title = 'Lixo Zero'
+theme = 'lixo-zero'
