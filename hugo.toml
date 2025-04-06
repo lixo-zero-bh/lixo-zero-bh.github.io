@@ -4,6 +4,17 @@ title = 'Lixo Zero'
 theme = 'lixo-zero'
 
 [build]
+  [build.buildStats]
+    enable = true
   [[build.cachebusters]]
-    source = 'tailwind\.config\.js'
+    source = 'assets/notwatching/hugo_stats\.json'
     target = 'css'
+
+[module]
+  [[module.mounts]]
+    source = 'assets'
+    target = 'assets'
+  [[module.mounts]]
+    disableWatch = true
+    source = 'hugo_stats.json'
+    target = 'assets/notwatching/hugo_stats.json'

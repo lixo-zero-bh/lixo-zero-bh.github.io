@@ -1,5 +1,7 @@
 @import "tailwindcss";
 
+@source "hugo_stats.json";
+
 @theme {
   --color-green: #2e5d38;
 }
