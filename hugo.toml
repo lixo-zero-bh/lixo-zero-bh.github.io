@@ -7,6 +7,41 @@ theme = 'lixo-zero'
   bannerSection = 'banners'
   homeSection = 'posts'
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[[menus.main]]
+name = 'Projeto'
+url = '#projeto'
+weight = 20
+
+[[menus.main]]
+name = 'Onde?'
+url = '#onde'
+weight = 30
+
+[[menus.main]]
+name = 'Como?'
+url = '#como'
+weight = 40
+
+[[menus.main]]
+name = 'Dicas'
+url = '#'
+weight = 50
+
+[[menus.main]]
+name = 'Impactos'
+url = '#'
+weight = 60
+
+[[menus.main]]
+name = 'Apoie'
+url = '#apoie'
+weight = 70
+
 [build]
   [build.buildStats]
     enable = true

@@ -5,8 +5,19 @@
 @source "hugo_stats.json";
 
 @theme {
-  --color-green: #144e27;
-  --color-yellow: #e09922;
-  --color-red: #9d1924;
-  --font-sans: "Open Sans", sans-serif;
+	--color-green: #144e27;
+	--color-yellow: #e09922;
+	--color-red: #9d1924;
+	--color-grey: #d7d8d1;
+	--font-sans: "Open Sans", sans-serif;
+}
+
+@layer components {
+	.content h2 {
+		@apply font-bold font-stretch-condensed text-5xl text-red mt-24 mb-6 uppercase scroll-mt-28 pb-4 border-b-2 border-red;
+	}
+
+	.content p {
+		@apply text-lg mb-4;
+	}
 }
