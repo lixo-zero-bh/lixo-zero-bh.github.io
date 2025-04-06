@@ -1,8 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wdth,wght@0,75..100,300..800;1,75..100,300..800&display=swap');
+
 @import "tailwindcss";
 
 @source "hugo_stats.json";
 
 @theme {
-  --color-green: #2e5d38;
-  --color-yellow: #deab48;
+  --color-green: #144e27;
+  --color-yellow: #e09922;
+  --color-red: #9d1924;
+  --font-sans: "Open Sans", sans-serif;
 }

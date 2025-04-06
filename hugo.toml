@@ -3,6 +3,10 @@ languageCode = 'pt-br'
 title = 'Lixo Zero'
 theme = 'lixo-zero'
 
+[params]
+  bannerSection = 'banners'
+  homeSection = 'posts'
+
 [build]
   [build.buildStats]
     enable = true
