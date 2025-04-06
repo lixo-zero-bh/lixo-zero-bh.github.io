@@ -4,14 +4,14 @@
   {{ partial "head.html" . }}
 </head>
 <body>
-  <header class="fixed top-0 left-0 bg-green text-white w-full h-auto">
-    {{ partial "header.html" . }}
-  </header>
-  <main>
-    {{ block "main" . }}{{ end }}
-  </main>
-  <footer>
-    {{ partial "footer.html" . }}
-  </footer>
+	<header class="fixed top-0 left-0 bg-green w-full h-auto py-4">
+		{{ partial "header.html" . }}
+	</header>
+	<main class="container mt-26 mx-auto">
+		{{ block "main" . }}{{ end }}
+	</main>
+	<footer>
+		{{ partial "footer.html" . }}
+	</footer>
 </body>
 </html>
