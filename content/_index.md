@@ -30,4 +30,6 @@ Dias e horário de funcionamento (fácil de editar)
 
 ## Como funciona? { id="como" }
 
+Como estruturar um sistema de coleta seletiva que envolva os cidadãos, operadores de serviço, ONGs e grupos universitários no tratamento de resíduos secos e orgânicos?
+
 ## Apoie { id="apoie" }
