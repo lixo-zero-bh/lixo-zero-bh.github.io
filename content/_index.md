@@ -30,4 +30,15 @@ Dias e horário de funcionamento (fácil de editar)
 
 ## Como funciona? { id="como" }
 
+Ao aderir ao projeto, você terá acesso a um serviço integral de tratamento de resíduos, educação ambiental e acesso a alimentos e produtos das economias solidária e popular. 
+
+- Seus resíduos secos (plásticos, metais, papéis e vidros) serão recuperados pelas catadoras da Coopesol Leste! 
+- Seus restos de alimentos e de podas serão recuperados pelo coletivo de permacultura Roots Ativa! 
+- Suas dúvidas sobre como separar melhor seus resíduos em sua casa podem ser sanadas em nossos espaços ou em nosso grupo de zap.
+- Os impactos, a governança e as inovações do projeto são acompanhadas por grupos de pesquisa, como o Instituto Atemis e o Núcleo Alter-Nativas de Produção da UFMG.
+- E você ainda tem descontos no empório colaborativo que conta com alimentos, cosméticos, minhocários, mudas e muito mais produtos de 16 iniciativas solidárias e populares de produção.
+
+Quer saber mais? Entre em contato com a gente (Zap - fácil de ser alterado)
+
+
 ## Apoie { id="apoie" }
