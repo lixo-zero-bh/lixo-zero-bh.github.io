@@ -32,7 +32,7 @@
         x-transition:leave="transform ease-in duration-300 transition-translate-opacity"
         x-transition:leave-start="translate-y-0 opacity-100" x-transition:leave-end="translate-y-10 opacity-0"
         class="lg:hidden">
-		<div class="container px-4 flex flex-col items-center space-y-6 mt-6">
+		<div class="container px-4 flex flex-col items-center space-y-6 mt-6" @click="open = false">
 			<div>
 				{{ partial "menu.html" (dict "menuID" "main" "page" .) }}
 			</div>
