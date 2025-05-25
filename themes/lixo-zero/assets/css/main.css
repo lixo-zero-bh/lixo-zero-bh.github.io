@@ -14,10 +14,18 @@
 
 @layer components {
 	.content h2 {
-		@apply font-bold font-stretch-condensed text-5xl text-red mt-24 mb-6 uppercase scroll-mt-28 pb-4 border-b-2 border-red;
+		@apply font-bold font-stretch-condensed text-3xl lg:text-5xl text-red mt-12 lg:mt-24 mb-4 lg:mb-6 uppercase scroll-mt-28 pb-4 border-b-2 border-red;
 	}
 
 	.content p {
-		@apply text-lg mb-4;
+		@apply lg:text-lg mb-4 text-justify hyphens-auto;
+	}
+
+	.content ul {
+		@apply lg:text-lg text-justify hyphens-auto list-disc list-outside ml-6 mb-4;
+	}
+
+	.content li {
+		@apply mb-2;
 	}
 }

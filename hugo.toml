@@ -28,19 +28,14 @@ url = '#como'
 weight = 40
 
 [[menus.main]]
-name = 'Dicas'
+name = 'Impactos'
 url = '#'
 weight = 50
 
 [[menus.main]]
-name = 'Impactos'
-url = '#'
-weight = 60
-
-[[menus.main]]
 name = 'Apoie'
 url = '#apoie'
-weight = 70
+weight = 60
 
 [caches]
   [caches.images]
